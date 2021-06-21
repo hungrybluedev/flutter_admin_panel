@@ -18,9 +18,18 @@
 
 ### Tablet
 
+### Main Dashboard
+
 <div align="center" style="align: center;">
 
 ![Tablet with Drawer Closed](media/tablet-01.png)
+
+</div>
+
+### Drawer Open
+
+<div align="center" style="align: center;">
+
 ![Tablet with Drawer Open](media/tablet-02.png)
 
 </div>
@@ -51,6 +60,11 @@ This project is released under the [MIT License](LICENSE).
 
 - [The Flutter Way](https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw) for the excellent tutorial: [Responsive Admin Panel or Dashboard - Flutter UI - Speed Code](https://www.youtube.com/watch?v=_uOgXpEHNbc)
 - The official [Flutter documentation](https://flutter.dev/docs).
+- Flutter packages used:
+  - [google_fonts](https://pub.dev/packages/google_fonts)
+  - [flutter_svg](https://pub.dev/packages/flutter_svg)
+  - [fl_chart](https://pub.dev/packages/fl_chart)
+  - [provider](https://pub.dev/packages/provider)
 - [gThumb](https://gitlab.gnome.org/GNOME/gthumb) - An excellent, easy-to-use image editor for basic image editing tasks. (FOSS)
 - [ffmpeg](https://ffmpeg.org/) - CLI tool that I use to convert video to GIFs. (FOSS).
 - [readme.so](https://readme.so/) - Free tool to quickly create a complete, structured Readme file.
