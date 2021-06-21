@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 const _desktopCutoff = 1260;
 const _aspectCutoff = 1050;
 const _mobileCutoff = 900;
-const _gridCutoff = 620;
+const _gridCutoff = 670;
 const _extraSmallCutoff = 400;
 
 class ResponsiveWidget extends StatelessWidget {
